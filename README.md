@@ -21,6 +21,8 @@ Once unlocked, the user can save their secrets.
 
 To access a saved secret, the user must re-enter the correct password.
 
+The correct password is :OpenSesame (You can change the password.)
+
 If the password is incorrect, a fun error message is displayed.
 
 Technologies Used:
